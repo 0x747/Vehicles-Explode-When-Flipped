@@ -4,6 +4,8 @@
 - [Requirements](#requirements)
 - [How to Install](#how-to-install)
 
+[![](https://img.youtube.com/vi/3T523OFqufA/0.jpg)](https://www.youtube.com/watch?v=3T523OFqufA)
+
 ## Description and Features
 
 All vehicles can now take damage when they are flipped. Once they take enough damage they will catch on fire and explode similar to the 3D games.
