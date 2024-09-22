@@ -1,0 +1,8 @@
+C:\Users\Mihir\Desktop\git\mods\Vehicles Explode When Flipped\Vehicles Explode When Flipped\bin\Debug\ScriptHookVDotNet3.dll
+C:\Users\Mihir\Desktop\git\mods\Vehicles Explode When Flipped\Vehicles Explode When Flipped\obj\Debug\Vehicles Explode When Flipped.csproj.AssemblyReference.cache
+C:\Users\Mihir\Desktop\git\mods\Vehicles Explode When Flipped\Vehicles Explode When Flipped\obj\Debug\Vehicles Explode When Flipped.csproj.CoreCompileInputs.cache
+C:\Users\Mihir\Desktop\git\mods\Vehicles Explode When Flipped\Vehicles Explode When Flipped\obj\Debug\Vehicles.97C978D0.Up2Date
+C:\Users\Mihir\Desktop\git\mods\Vehicles Explode When Flipped\Vehicles Explode When Flipped\bin\Debug\VehiclesExplodeWhenFlipped.dll
+C:\Users\Mihir\Desktop\git\mods\Vehicles Explode When Flipped\Vehicles Explode When Flipped\bin\Debug\VehiclesExplodeWhenFlipped.pdb
+C:\Users\Mihir\Desktop\git\mods\Vehicles Explode When Flipped\Vehicles Explode When Flipped\obj\Debug\VehiclesExplodeWhenFlipped.dll
+C:\Users\Mihir\Desktop\git\mods\Vehicles Explode When Flipped\Vehicles Explode When Flipped\obj\Debug\VehiclesExplodeWhenFlipped.pdb
