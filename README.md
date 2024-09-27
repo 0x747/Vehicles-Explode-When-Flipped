@@ -22,5 +22,5 @@ All vehicles can now take damage when they are flipped. Once they take enough da
 
 ## How to Install
 
-1. Download and extract the "VehiclesExplodeWhenFlipped.zip" archive.
+1. Download and extract the ["VehiclesExplodeWhenFlipped.zip"](https://github.com/0x747/Vehicles-Explode-When-Flipped/releases/tag/v1.1) archive.
 2. Copy "VehiclesExplodeWhenFlipped.dll" into the "scripts" folder of your GTA V directory.
