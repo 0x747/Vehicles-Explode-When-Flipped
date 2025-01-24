@@ -8,7 +8,7 @@
 
 ## Description and Features
 
-All vehicles can now take damage when they are flipped. Once they take enough damage they will catch on fire and explode similar to the 3D games.
+All vehicles can now take damage when they are flipped. Once they take enough damage they will catch on fire and explode similar to the 3D era games (GTA III, Vice City, and San Andreas).
 
 - All vehicles will now take additional damage when rolling on ground.
 - All vehicles will now explode once the engine catches fire instead of flaming out.
