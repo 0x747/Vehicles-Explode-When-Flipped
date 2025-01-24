@@ -8,10 +8,13 @@
 
 ## Description and Features
 
-All vehicles can now take damage when they are flipped. Once they take enough damage they will catch on fire and explode similar to the 3D era games (GTA III, Vice City, and San Andreas).
+Vehicles in GTA V do not catch on fire and explode when they are flipped. This mod allows vehicles to take damage each time they are flipped and explode once enough damage is dealt. This adds a level of difficulty and mimics a characteristic found in older 3D era GTA games (GTA III, Vice City, and San Andreas).
 
-- All vehicles will now take additional damage when rolling on ground.
-- All vehicles will now explode once the engine catches fire instead of flaming out.
+- All vehicles will now take additional damage when rolling on ground or resting at angle larger than 90 degrees*
+- All vehicles will now explode after the engine catches fire instead of flaming out.
+
+*Roll damage is not applied when vehicles are in the air (airborne stunts and aircrafts).
+*Roll damage is not applied to bicycles.
 
 ## Requirements
 
